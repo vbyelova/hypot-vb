@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/833575244.svg)](https://zenodo.org/doi/10.5281/zenodo.12820804)
+
 # The Ultimate Python Project Template
 
 You can create your own version of this repository by clicking the `Use Template` option.
