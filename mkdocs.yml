@@ -1,0 +1,14 @@
+site_name: hypot Documentation
+
+theme: 
+  name: "material"
+
+plugins:
+- mkdocstrings:
+    handlers:
+      python:
+        paths: [src]  # search packages in the src folder
+
+nav:
+  - Index: index.md
+  - API Reference: api_ref.md
